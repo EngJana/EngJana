@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 - ⚡ Electrical and computer engineer with a passion for robotics and research.
 - Knowledge seeker  
 - Proficient in C++, MATLAB, Python, and hardware prototyping.
@@ -10,4 +9,3 @@
 - have a samll business for journal [janaplan](https://salla.sa/janaplan)
 - 📫 How to reach me: janabk3009@gimal.com
 
--->
